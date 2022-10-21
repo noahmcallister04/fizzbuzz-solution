@@ -1,6 +1,6 @@
 # FizzBuzz
 
-### This is my solution for FizzBuzz using JavaScript:
+### This is my solution for FizzBuzz using *JavaScript*:
 
   ```<!DOCTYPE html>
 <html>
