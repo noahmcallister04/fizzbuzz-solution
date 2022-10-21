@@ -42,4 +42,4 @@ function fizzbuzz() {
 ```
 __[Take Me Back!](https://github.com/noahmcallister04/Home-Page)__
 
-__[Next Page]()__
+__[Next Page](https://github.com/noahmcallister04/boredwebsites)__
